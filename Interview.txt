@@ -80,14 +80,15 @@ recommendations on the actions America should take to remain prosperous
 in the 21st century in terms of K-12 education, science and engineering
 research, higher education and economic policy.   The study concludes
 with a call to action by theorizing about “what life might be like, if
-America became noncompetitive in Science and Technology”.  
-Alternatively, one of my favorite books on this subject is The U.S.
+America became noncompetitive in Science and Technology”.  Alternatively, one of my favorite books on this subject is The U.S.
 Technology Skills Gap – What Every Technology Executive Must Know to
 Save America’s Future by Gary J. Beach.  Beach goes beyond defining the
 issue and outlining the challenges that need to be overcome, he devotes
 a significant portion of his book to the work that companies and other
 organizations are doing to address the “skills gap”, which is both
-insightful and inspiring. Fundamentally, there are several drivers to
+insightful and inspiring. 
+
+Fundamentally, there are several drivers to
 this issue, but I want to specifically dismiss the notion that as a
 nation our young people lack interest or potential to succeed in STEM
 professions.  Our students are demonstrating interest in STEM curriculum
@@ -106,7 +107,9 @@ deficiency with quantity, but with dedicated focus from education
 professionals and strategic investment from industry we will make best
 attempts to address it with quality.  The more we can develop our future
 STEM workforce, the better our chances are at retaining our relevancy as
-world leaders in technology and innovation. The good news is that
+world leaders in technology and innovation. 
+
+The good news is that
 forward-looking corporations understand this need and are making
 strategic investments to subsidize the development of their future
 workforce.  They recognize that an investment today will yield
@@ -127,4 +130,33 @@ skill set.  The US STEM Foundation likes to advertise that we are
 helping train your corporation’s future talent pool; improving their
 technical acumen and enhancing their ability to creatively collaborate
 and innovate.  
+
+
+WashintonExec: Is this an educational concept here to stay or will it be
+overtaken when a new theory is introduced? 
+
+Doug Donegan: I’m not an education professional, so I can’t speak to 
+what models are being developed by academics that study and develop these models.  
+However, as an engineer I assert that STEM is an excellent way to address the
+educational needs of this generation.  I opine that the focus on STEM is
+appropriate and based on sound education theory.  Given the need to
+deliver a quality STEM workforce to the market, I don’t think we can
+afford to divert our focus on STEM, but we should always try to improve
+upon it and extend it. 
+
+In the 1990s the National Science Foundation married Science, Technology, 
+Engineering and Math with the acronym STEM.  Judith A. Ramaley, the former 
+director of the National Science Foundation’s Education and Human Resources 
+division, is credited with coining the term.  The traditional Science and 
+Mathematics subjects that we grow up with are recognized as the bookends 
+and enablers for the applied subjects of Technology and Engineering.  After 
+years of research educators understand that these subjects cannot and 
+should not be taught in isolation.  Curriculum is being adjusted in 
+attempts to integrate the subjects and implement this approach.  As 
+professionals we know that they do not exist in isolation in the workforce.
+
+The US STEM Foundation recognizes that many STEM activities don’t always fit 
+well into the confines of classroom time.  We seek to assist in implementing
+this concept by supporting extracurricular hands-on activities that
+allow students to explore and apply these subjects.
 
